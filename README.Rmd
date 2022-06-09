@@ -1,15 +1,15 @@
 ---
 title: "EPOMAR"
 output: github_document
+fontsize: 11pt
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = F)
-```
 
-## Repositorio EPOMAR  
- 
-![Evaluación de Poblaciones Marinas Explotadas](G:/Mi unidad/EPOMAR-PAGINA WEB/img/Epomar-Logo.jpeg){width=80 height=80}
+
+# Repositorio
+
+![Evaluación de Poblaciones Marinas Explota](Epomar-Logo.jpeg){width=80 height=80}
 
 
 El interés en investigación del laboratorio EPOMAR es en dinámica de poblaciones explotadas, biología pesquera y evaluación de stock, con énfasis en el desarrollo y aplicación de enfoques que faciliten tanto la comprensión de los cambios de abundancia como la toma de decisiones para el manejo de pesquerías.

@@ -1,14 +1,13 @@
 EPOMAR
 ================
 
-## Repositorio EPOMAR
+# Repositorio
 
 <figure>
-<img src="G:/Mi%20unidad/EPOMAR-PAGINA%20WEB/img/Epomar-Logo.jpeg"
-width="80" height="80"
-alt="Evaluación de Poblaciones Marinas Explotadas" />
+<img src="Epomar-Logo.jpeg" width="80" height="80"
+alt="Evaluación de Poblaciones Marinas Explota" />
 <figcaption aria-hidden="true">Evaluación de Poblaciones Marinas
-Explotadas</figcaption>
+Explota</figcaption>
 </figure>
 
 El interés en investigación del laboratorio EPOMAR es en dinámica de
@@ -26,3 +25,7 @@ el manejo de pesquerías.
 #### Convenio EPOMAR UdeC – Camanchaca Pesca Sur
 
 ## Including Code
+
+``` r
+#library(tidyverse)
+```
