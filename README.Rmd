@@ -4,10 +4,34 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
-## Repositorio EPOMAR
+## Repositorio EPOMAR  
+ 
+![Evaluación de Poblaciones Marinas Explotadas](G:/Mi unidad/EPOMAR-PAGINA WEB/img/Epomar-Logo.jpeg){width=80 height=80}
+
 
 El interés en investigación del laboratorio EPOMAR es en dinámica de poblaciones explotadas, biología pesquera y evaluación de stock, con énfasis en el desarrollo y aplicación de enfoques que faciliten tanto la comprensión de los cambios de abundancia como la toma de decisiones para el manejo de pesquerías.
+
+
+### Informe Técnico Vol. 7 No 2 (2022)
+
+# Indicadores biológico-pesqueros del langostino colorado y langostino amarillo
+### Mayo de 2022
+#### Convenio EPOMAR UdeC – Camanchaca Pesca Sur
+
+
+
 ## Including Code
+
+```{r }
+#library(tidyverse)
+
+
+
+```
+
+
+
+
