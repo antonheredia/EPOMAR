@@ -54,8 +54,10 @@ el manejo de pesquerías.
 <h3>
 Informe Técnico Vol. 7 No 2 (2022)
 </h3>
-<hT>Indicadores biológico-pesqueros del langostino colorado y langostino
-amarillo</hT>
+<h6>
+Indicadores biológico-pesqueros del langostino colorado y langostino
+amarillo
+</h6>
 <h5>
 Mayo de 2022
 </h5>
@@ -94,8 +96,10 @@ Sta. María (Fig. 1).
 <img src="img/Fig1.PNG" style="width:50.0%;height:50.0%" />
 </center>
 <center>
-<hF> Figura 1. Distribución espacial de los lances de pesca orientados a
-langostino colorado y langostino amarillo en abril, 2022 </hF>
+<h5>
+Figura 1. Distribución espacial de los lances de pesca orientados a
+langostino colorado y langostino amarillo en abril, 2022
+</h5>
 </center>
 <h4>
 1.2. Capturas, esfuerzo, y rendimientos de pesca
@@ -107,7 +111,7 @@ presenta tanto langostino colorado como amarillo con un total de 164
 lances, el 85,4% de los lances presentó ambas especies, el 10,4%
 presentó solo langostino colorado y solo el 7% de los lances se capturó
 exclusivamente langostino amarillo.
-<p>
+</p>
 <p>
 Las capturas por lance de langostino colorado fluctuaron entre 160 y
 7328 kg, totalizando una captura de 471262 kg. Se logró un promedio de
@@ -115,5 +119,20 @@ Las capturas por lance de langostino colorado fluctuaron entre 160 y
 rendimiento de pesca de 1895 kg/ha (Tabla 1). En cuanto a langostino
 amarillo se registro en 147 lances con una captura total de 73426 kg y
 un rendimiento de 315 kg/ha (Tabla 1).
+</p>
+<h5>
+Tabla 1. Indicadores operacionales de la pesquería de langostino
+colorado y langostino amarillo, 2022.
+</h5>
+<center>
+<img src="img/Tabla1.PNG" data-widtht="5cm" style="height:5cm" />
+</center>
 <p>
+El rendimiento de pesca de langostino colorado fluctúo entre 64 y 6835
+kg/ha, con unamoda en 2089 kg/ha. En cambio, el esfuerzo de pesca
+fluctúo entre 23 y 159 minutos, con una mayor frecuencia en 1 horas 35
+minutos (Fig. 2). En cuanto a langostino amarillo, este presentó un
+rendimiento medio de 192 kg/ha, y el esfuerzo tuvo una mayor frecuencia
+en 1 hora 35 min (Fig. 2).
+</p>
 </section>

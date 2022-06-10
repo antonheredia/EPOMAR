@@ -108,22 +108,23 @@ header .textos-header{
     font-size: 18px;
     color: rgb(0, 0, 0);
 }
+.informe h5{
+    text-align: center;
+    margin-left: 3%;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
 .informe p{
     text-align: justify;
     font-size: 16px;
     color: rgb(0, 0, 0);
 }
 
-.informe hT{
+.informe h6{ /*titulos*/
     font-size: 24px;
     color: rgb(4, 0, 255);
 }
-.informe hF{
-    text-align: center;
-    margin-block: 35%;
-    font-size: 15px;
-    color: rgb(45, 45, 46);
-}
+
 
 
 
