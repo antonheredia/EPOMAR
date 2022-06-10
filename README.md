@@ -51,19 +51,19 @@ el manejo de pesquerías.
 </p>
 <section class="informe">
 <center>
-<h5>
-Informe Técnico Vol. 7 No 2 (2022)
-</h5>
 <h6>
-Indicadores biológico-pesqueros del langostino colorado y langostino
-amarillo
+Informe Técnico Vol. 7 No 2 (2022)
 </h6>
 <h5>
+Indicadores biológico-pesqueros del langostino colorado y langostino
+amarillo
+</h5>
+<h6>
 Mayo de 2022
-</h5>
-<h5>
+</h6>
+<h6>
 Convenio EPOMAR UdeC – Camanchaca Pesca Sur
-</h5>
+</h6>
 </center>
 <h2>
 Presentación
@@ -96,10 +96,10 @@ Sta. María (Fig. 1).
 <img src="img/Fig1.PNG" style="width:50.0%;height:50.0%" />
 </center>
 <center>
-<h5>
+<h6>
 Figura 1. Distribución espacial de los lances de pesca orientados a
 langostino colorado y langostino amarillo en abril, 2022
-</h5>
+</h6>
 </center>
 <h4>
 1.2. Capturas, esfuerzo, y rendimientos de pesca
@@ -120,10 +120,10 @@ rendimiento de pesca de 1895 kg/ha (Tabla 1). En cuanto a langostino
 amarillo se registro en 147 lances con una captura total de 73426 kg y
 un rendimiento de 315 kg/ha (Tabla 1).
 </p>
-<h5>
+<h6>
 Tabla 1. Indicadores operacionales de la pesquería de langostino
 colorado y langostino amarillo, 2022.
-</h5>
+</h6>
 <center>
 <img src="img/Tabla1.PNG" data-widtht="5cm" style="height:5cm" />
 </center>
