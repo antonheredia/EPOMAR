@@ -112,7 +112,7 @@ header .textos-header{
     text-align: center;
     margin-left: 3%;
     font-size: 15px;
-    color: rgb(4, 0, 255);
+    color: rgb(0, 0, 0);
    
 }
 .informe p{
@@ -124,7 +124,7 @@ header .textos-header{
 .informe h5{ /*titulos*/
     text-align: center;
     font-size: 24px;
-    color: rgb(0, 0, 0);
+    color: rgb(4, 0, 255);
 }
 
 
