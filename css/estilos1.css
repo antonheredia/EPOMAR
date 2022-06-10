@@ -121,6 +121,7 @@ header .textos-header{
 }
 
 .informe h6{ /*titulos*/
+    text-align: center;
     font-size: 24px;
     color: rgb(4, 0, 255);
 }

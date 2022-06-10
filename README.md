@@ -42,18 +42,18 @@ Universidad de Concepción
 
 <img>![](img/Epomar-Logo.jpeg)</img>
 
-<h4>
+<p>
 El interés en investigación del laboratorio EPOMAR es en dinámica de
 poblaciones explotadas, biología pesquera y evaluación de stock, con
 énfasis en el desarrollo y aplicación de enfoques que faciliten tanto la
 comprensión de los cambios de abundancia como la toma de decisiones para
 el manejo de pesquerías.
-</h4>
+</p>
 <section class="informe">
 <center>
-<h3>
+<h5>
 Informe Técnico Vol. 7 No 2 (2022)
-</h3>
+</h5>
 <h6>
 Indicadores biológico-pesqueros del langostino colorado y langostino
 amarillo
