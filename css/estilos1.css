@@ -80,6 +80,13 @@ header .textos-header{
     width: 100%;
 }
 
+/*Section fig*/
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /*Section INFORME*/
 
 .informe h1{

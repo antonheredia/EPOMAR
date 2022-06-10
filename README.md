@@ -39,9 +39,9 @@ Universidad de Concepción
 
 </header>
 </html>
-<center>
-<img src="img/Epomar-Logo.jpeg" style="width:30.0%;height:30.0%" />
-</center>
+
+<img>![](img/Epomar-Logo.jpeg)</img>
+
 <h4>
 El interés en investigación del laboratorio EPOMAR es en dinámica de
 poblaciones explotadas, biología pesquera y evaluación de stock, con
