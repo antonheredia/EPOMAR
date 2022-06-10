@@ -36,19 +36,19 @@ css: "style.css"
  
 </html>
 
-<center> 
-![](img/Epomar-Logo.jpeg){width=30% height=30%}
-</center> 
 
 
-<h4>El  interés en investigación del laboratorio EPOMAR es en dinámica de poblaciones explotadas, biología pesquera y evaluación de stock, con énfasis en el desarrollo y aplicación de enfoques que faciliten tanto la comprensión de los cambios de abundancia como la toma de decisiones para el manejo de pesquerías.</h4>
+<img>![](img/Epomar-Logo.jpeg)</img> 
+
+<p>El  interés en investigación del laboratorio EPOMAR es en dinámica de poblaciones explotadas, biología pesquera y evaluación de stock, con énfasis en el desarrollo y aplicación de enfoques que faciliten tanto la comprensión de los cambios de abundancia como la toma de decisiones para el manejo de pesquerías.</p>
 
 
 
 <section class="informe">
+
 <center> 
-<h3>Informe Técnico Vol. 7 No 2 (2022)</h3>
-<hT>Indicadores biológico-pesqueros del langostino colorado y langostino amarillo</hT>
+<h5>Informe Técnico Vol. 7 No 2 (2022)</h5>
+<h6>Indicadores biológico-pesqueros del langostino colorado y langostino amarillo</h6>
 <h5> Mayo de 2022</h5>
 <h5>Convenio EPOMAR UdeC – Camanchaca Pesca Sur</h5>
 </center> 
@@ -65,20 +65,22 @@ css: "style.css"
 <p>Las operaciones de pesca realizadas durante abril cubrieron los caladeros ubicados a lo largo de las regiones de Valparaíso, O’Higgins, Maule y Biobío, destacando la operación dirigida a langostino colorado a la cuadra de Valparaíso, Topocalma, Carranza, Chanco, Itata y la isla Sta. María (Fig. 1).<p>
 
 <center>![](img/Fig1.PNG){width=50% height=50%}</center>
-<center><hF> Figura 1. Distribución espacial de los lances de pesca orientados a langostino colorado y langostino amarillo en abril, 2022 </hF></center>
+<center><h5> Figura 1. Distribución espacial de los lances de pesca orientados a langostino colorado y langostino amarillo en abril, 2022 </h5></center>
 
 <h4> 1.2. Capturas, esfuerzo, y rendimientos de pesca</h4>
 
-<p>En abril de 2022, los de lances de pesca estuvieron orientados a langostino colorado, sin embargo, en la mayoría de los lances se presenta tanto langostino colorado como amarillo con un total de 164 lances, el 85,4% de los lances presentó ambas especies, el 10,4% presentó solo langostino colorado y solo el 7% de los lances se capturó exclusivamente langostino amarillo.<p>
+<p>En abril de 2022, los de lances de pesca estuvieron orientados a langostino colorado, sin embargo, en la mayoría de los lances se presenta tanto langostino colorado como amarillo con un total de 164 lances, el 85,4% de los lances presentó ambas especies, el 10,4% presentó solo langostino colorado y solo el 7% de los lances se capturó exclusivamente langostino amarillo.</p>
 
 
 <p>Las capturas por lance de langostino colorado fluctuaron entre 160 y 7328 kg, totalizando una captura de 471262 kg. Se logró un promedio de 3001 kg por lance de pesca, 
 desplegando 249 horas de arrastre (ha) y un rendimiento de pesca de 1895 kg/ha (Tabla 
-1). En cuanto a langostino amarillo se registro en 147 lances con una captura total de 73426 kg y un rendimiento de 315 kg/ha (Tabla 1).<p>
+1). En cuanto a langostino amarillo se registro en 147 lances con una captura total de 73426 kg y un rendimiento de 315 kg/ha (Tabla 1).</p>
 
 
+<h5> Tabla 1. Indicadores operacionales de la pesquería de langostino colorado y langostino amarillo, 2022. </h5>
+<center>![](img/Tabla1.PNG){widtht=5cm height=5cm}</center>
 
-
+<p>El rendimiento de pesca de langostino colorado fluctúo entre 64 y 6835 kg/ha, con unamoda en 2089 kg/ha. En cambio, el esfuerzo de pesca fluctúo entre 23 y 159 minutos, con una mayor frecuencia en 1 horas 35 minutos (Fig. 2). En cuanto a langostino amarillo, este presentó un rendimiento medio de 192 kg/ha, y el esfuerzo tuvo una mayor frecuencia en 1 hora 35 min (Fig. 2).</p>
 
 
 

@@ -108,11 +108,12 @@ header .textos-header{
     font-size: 18px;
     color: rgb(0, 0, 0);
 }
-.informe h5{
+.informe h6{
     text-align: center;
     margin-left: 3%;
     font-size: 15px;
-    color: rgb(0, 0, 0);
+    color: rgb(4, 0, 255);
+   
 }
 .informe p{
     text-align: justify;
@@ -120,10 +121,10 @@ header .textos-header{
     color: rgb(0, 0, 0);
 }
 
-.informe h6{ /*titulos*/
+.informe h5{ /*titulos*/
     text-align: center;
     font-size: 24px;
-    color: rgb(4, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
 
